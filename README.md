@@ -38,6 +38,7 @@ src/
 - 🖥️ **Swing:** GUI framework for building desktop interfaces
 - 🗃️ **File I/O:** For storing and retrieving user/account data
 - 🧩 **OOP Principles:** Modular and maintainable code structure
+- 🛢️ **MySQL:** Database management for storing user and transaction data
 
 ## 📦 How to Run
 
